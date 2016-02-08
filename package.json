@@ -1,6 +1,6 @@
 {
   "name": "modweb-router",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Object based router with Express-style route format.",
   "main": "lib/router.js",
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "author": "Modweb project",
   "license": "MIT",
+  "readme": "README.md",
   "dependencies": {
     "path-to-regexp": "^1.2.1"
   }
