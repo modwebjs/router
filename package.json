@@ -1,0 +1,14 @@
+{
+  "name": "modweb-router",
+  "version": "1.2.0",
+  "description": "Object based router with Express-style route format.",
+  "main": "lib/router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Modweb project",
+  "license": "MIT",
+  "dependencies": {
+    "path-to-regexp": "^1.2.1"
+  }
+}
